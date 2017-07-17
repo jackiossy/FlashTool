@@ -11,8 +11,8 @@ Android批量线刷脚本
 
 1.安装python3环境
 安装环境shell执行以下命令
-macOS- brew install python3
-ubuntu- apt-get install python3
+* macOS- brew install python3
+* ubuntu- apt-get install python3
 
 2.准备系统镜像文件放到imgs文件内，将本刷机脚本放到与imgs文件夹同一路径下。
 
