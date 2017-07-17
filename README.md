@@ -2,12 +2,12 @@
 FlashTool 1.0
 Android批量线刷脚本
 
-#future
+future
 1.批量刷入安卓系统。
 2.adb命令发送文件重启recovery。
 3.批量执行设备自定义adb/fastboot命令。
 
-#使用方法
+使用方法
 
 1.安装python3环境
 安装环境shell执行以下命令
